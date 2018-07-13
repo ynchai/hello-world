@@ -19,6 +19,7 @@
     // Override point for customization after application launch.
     NSLog(@"mac modify test");
     NSLog(@"launchOptions:%@",launchOptions);
+    NSLog(@"add .gitignore");
     return YES;
 }
 
