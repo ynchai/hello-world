@@ -20,6 +20,7 @@
     NSLog(@"mac modify test");
     NSLog(@"launchOptions:%@",launchOptions);
     NSLog(@"add .gitignore");
+    NSLog(@"new branch modify");
     return YES;
 }
 
