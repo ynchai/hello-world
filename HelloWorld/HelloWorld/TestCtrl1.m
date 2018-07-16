@@ -18,7 +18,7 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view.
     NSLog(@"test 撤销操作");
-    NSLog(@"撤销之后增加修改")
+    NSLog(@"撤销之后增加修改");
 }
 
 - (void)didReceiveMemoryWarning {
