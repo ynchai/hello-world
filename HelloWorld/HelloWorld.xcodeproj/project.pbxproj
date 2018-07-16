@@ -13,6 +13,7 @@
 		2CF65BF320F8476500E752FA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2CF65BF220F8476500E752FA /* Assets.xcassets */; };
 		2CF65BF620F8476500E752FA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2CF65BF420F8476500E752FA /* LaunchScreen.storyboard */; };
 		2CF65BF920F8476500E752FA /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 2CF65BF820F8476500E752FA /* main.m */; };
+		2CF65C0120FC3BE100E752FA /* TestCtrl1.m in Sources */ = {isa = PBXBuildFile; fileRef = 2CF65C0020FC3BE100E752FA /* TestCtrl1.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,8 @@
 		2CF65BF520F8476500E752FA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2CF65BF720F8476500E752FA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2CF65BF820F8476500E752FA /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		2CF65BFF20FC3BE100E752FA /* TestCtrl1.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TestCtrl1.h; sourceTree = "<group>"; };
+		2CF65C0020FC3BE100E752FA /* TestCtrl1.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TestCtrl1.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +70,8 @@
 				2CF65BF420F8476500E752FA /* LaunchScreen.storyboard */,
 				2CF65BF720F8476500E752FA /* Info.plist */,
 				2CF65BF820F8476500E752FA /* main.m */,
+				2CF65BFF20FC3BE100E752FA /* TestCtrl1.h */,
+				2CF65C0020FC3BE100E752FA /* TestCtrl1.m */,
 			);
 			path = HelloWorld;
 			sourceTree = "<group>";
@@ -142,6 +147,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2CF65C0120FC3BE100E752FA /* TestCtrl1.m in Sources */,
 				2CF65BEE20F8476500E752FA /* ViewController.m in Sources */,
 				2CF65BF920F8476500E752FA /* main.m in Sources */,
 				2CF65BEB20F8476500E752FA /* AppDelegate.m in Sources */,
